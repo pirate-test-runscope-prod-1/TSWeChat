@@ -1104,7 +1104,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/TSWeChat/Vendor/VoiceConvert/lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hilen.tswechat9898;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ENFORCE_EXCLUSIVE_ACCESS = none;
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/TSWeChat/Supportting Files//TSWeChat-Bridging-Header.h";
@@ -1129,7 +1129,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/TSWeChat/Vendor/VoiceConvert/lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hilen.tswechat9898;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ENFORCE_EXCLUSIVE_ACCESS = none;
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/TSWeChat/Supportting Files//TSWeChat-Bridging-Header.h";
